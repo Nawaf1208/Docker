@@ -1,0 +1,5 @@
+# Use the official lightweight NGINX image
+FROM nginx:alpine
+
+# Copy custom index.html to NGINX default directory
+COPY index.html /usr/share/nginx/html/index.html
