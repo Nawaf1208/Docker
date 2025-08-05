@@ -5,4 +5,7 @@ This repository contains my Docker learning tasks, mini-projects, and experiment
 ## 📁 Contents
 
 - `nginx-docker-task/` — Running NGINX container and exploring port mappings
+- `custom-dockerfile-hello/`
+- `nginx-redis-compose/`
+
 
